@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2f78283-848f-4601-844c-335340027db5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/microservice-exception-handling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d3de1e439b310e6cffa95573d3aa267af3e4e94" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/899ce9c202bf7bb5480e72836c3edc773c9c4244" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a97e66ccf489d6fda94e7140ede20bb519e64593" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/exception/BadCredentialsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/exception/CartItemException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/exception/CourseNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/exception/OrderException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/exception/ProductException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/exception/UserExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swiggy-app/.idea/sonarlint/issuestore/0/e/0e9abea337e843129ed21ce715efffc2d708b28f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/common/advice/RestaurantServiceGlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/common/advice/RestaurantServiceGlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/common/dto/GlobalErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/common/dto/GlobalErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/advice/RestaurantServiceGlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/advice/SwiggyServiceGlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/dto/CustomErrorResponse$CustomErrorResponseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/dto/CustomErrorResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/dto/GlobalErrorCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/dto/OrderResponseDTO$OrderResponseDTOBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/dto/OrderResponseDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/dto/Response$ResponseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/dto/Response$ResponseBuilderImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/dto/Response.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/exception/InternalServerErrorException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/exception/OrderNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/exception/SwiggyServiceException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/exception/UserNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/common/helper/RequestBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/common-0.0.35.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-service/src/main/java/com/handle/controller/RestaurantController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant-service/src/main/java/com/handle/controller/RestaurantController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-service/src/main/java/com/handle/controller/ServiceGlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant-service/src/main/java/com/handle/controller/ServiceGlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-service/target/classes/com/handle/controller/RestaurantController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant-service/target/classes/com/handle/controller/RestaurantController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-service/target/classes/com/handle/controller/ServiceGlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant-service/target/classes/com/handle/controller/ServiceGlobalExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-service/target/restaurant-service-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant-service/target/restaurant-service-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-service/target/restaurant-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant-service/target/restaurant-service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-service/target/surefire-reports/TEST-com.handle.RestaurantServiceApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant-service/target/surefire-reports/TEST-com.handle.RestaurantServiceApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-service/target/surefire-reports/com.handle.RestaurantServiceApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../restaurant-service/target/surefire-reports/com.handle.RestaurantServiceApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/src/main/java/com/handle/client/RestaurantServiceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/src/main/java/com/handle/client/RestaurantServiceClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/src/main/java/com/handle/controller/SwiggyAppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/src/main/java/com/handle/controller/SwiggyAppController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/src/main/java/com/handle/service/SwiggyAppService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/src/main/java/com/handle/service/SwiggyAppService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/target/classes/com/handle/advise/SwiggyServiceGlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/target/classes/com/handle/client/RestaurantServiceClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/target/classes/com/handle/client/RestaurantServiceClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/target/classes/com/handle/controller/SwiggyAppController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/target/classes/com/handle/controller/SwiggyAppController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/target/classes/com/handle/service/SwiggyAppService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/target/classes/com/handle/service/SwiggyAppService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/target/surefire-reports/TEST-com.handle.SwiggyAppApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/target/surefire-reports/TEST-com.handle.SwiggyAppApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/target/surefire-reports/com.handle.SwiggyAppApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/target/surefire-reports/com.handle.SwiggyAppApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/target/swiggy-app-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/target/swiggy-app-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swiggy-app/target/swiggy-app-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/../swiggy-app/target/swiggy-app-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ZYFHXK5nLGo2uHK71kI5rX9BUW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2f78283-848f-4601-844c-335340027db5" name="Changes" comment="" />
+      <created>1702591020105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702591020105</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
